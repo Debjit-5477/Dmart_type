@@ -1,5 +1,5 @@
 import { Routes, Route } from 'react-router-dom';
-import Layout from './components/layout/Layout';
+import Layout from './components/layout/Layout.tsx';
 import ExecutiveSummary from './pages/ExecutiveSummary';
 import AuditMetrics from './pages/AuditMetrics';
 import ConversionMetrics from './pages/ConversionMetrics';
